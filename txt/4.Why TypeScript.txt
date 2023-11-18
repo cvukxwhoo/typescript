@@ -1,0 +1,18 @@
+1. Dynamic types với js( Động )
+- Là kiểu ngôn ngữ động, chúng ta có thể thay đổi datatype
+- Cần khai báo kiểu dữ liệu
+
+2. Type
+* Các loại datatype
+
+- Dữ liệu nguyên thủy
+- Dữ liệu tham chiếu
+
++ String, number, boolean, null, undefined, symbol, bigint
++ Objects, Array, Function
+
+* Type Annotations - Keyword Type
+- Kiểu dữ liệu nguyên thủy
+VD: 
+let count: number;
+count = 'name';
